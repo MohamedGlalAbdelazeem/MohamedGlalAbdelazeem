@@ -18,12 +18,7 @@ Skills:
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/3b9a4ba7-efc5-4ba9-a101-4c5089558ec6" width="8%" alt="photo" />
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/345ea851-2492-4469-a6a9-fd5de9d6fe87" width="7%" alt="photo" />
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/1dc14a26-7727-4735-b2c1-1312a30efda6" width="8%" alt="photo" />
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/b6c75aa6-024b-48e1-930e-90acbba4ae57" width="5%" alt="photo" />
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/4c68f915-29d7-4cb9-a698-baa7a9bb4f91" width="10%" alt="photo" />
+<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/b6c75aa6-024b-48e1-930e-90acbba4ae57" width="8%" alt="photo" />
+<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/4c68f915-29d7-4cb9-a698-baa7a9bb4f91" width="8%" alt="photo" />
 
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="10%" alt="photo" />
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="10%" alt="photo" />
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="10%" alt="photo" />
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="10%" alt="photo" />
-
-
+ 
