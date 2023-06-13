@@ -15,6 +15,6 @@ Skills:
 * SQL
  
 
-<img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" alt="photo" />
+<img src="[https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn](https://icon-library.com/images/frontend-icon/frontend-icon-5.jpg)" alt="photo" />
 
 
