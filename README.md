@@ -26,7 +26,9 @@ Skills:
 <hr><hr>
   <h1>_______________________My projects__________________________</h1> 
   <br>
-  <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/">Drag Drop app</a>
- 
-
- 
+   <h2>HTML5 & CSS3 & JS Pojects</h2>
+      <a href="https://mohamedglalabdelazeem.github.io/Calculate-zakat-elmaal/"> Calculate-zakat-elmaal </a>
+      <a href="https://mohamedglalabdelazeem.github.io/DHTML-/">DHTML 1</a>
+     <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/">Drag Drop app</a>
+    <a href=" https://mohamedglalabdelazeem.github.io/animation-website/">Animatin website</a>
+     <a href="https://mohamedglalabdelazeem.github.io/animationNavBar/">Animation navbar</a>
