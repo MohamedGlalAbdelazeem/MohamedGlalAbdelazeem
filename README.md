@@ -15,6 +15,6 @@ Skills:
 * SQL
  
 
-<a href="#" >lind</a>
+<img src="https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn" alt="photo" />
 
 
