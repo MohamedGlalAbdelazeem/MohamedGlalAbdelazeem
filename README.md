@@ -22,6 +22,7 @@ Skills:
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/4c68f915-29d7-4cb9-a698-baa7a9bb4f91" width="8%" alt="photo" />
 <hr><hr>
 # Contact me
+<div>
 <a href="https://www.linkedin.com/in/mohamed-glal-abdelazeem-7a4b0320a/" target="_blank"><img width="4%" src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/20da067c-0613-49b3-a6b1-43310eb8f64b" alt="linkedin"></a>
-
+</div>
  
