@@ -24,7 +24,9 @@ Skills:
 # Contact me
 <div>
 <a href="https://www.linkedin.com/in/mohamed-glal-abdelazeem-7a4b0320a/" target="_blank"><img width="4%" src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/20da067c-0613-49b3-a6b1-43310eb8f64b" alt="linkedin"></a>
- <a href="https://www.linkedin.com/in/mohamed-glal-abdelazeem-7a4b0320a/" target="_blank"><img width="4%" src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/90119aed-803e-4462-96ec-e8d0a57c49c0" alt="linkedin"></a>
+ <a href=" https://wa.me/01021432931" target="_blank"><img width="4%" src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/90119aed-803e-4462-96ec-e8d0a57c49c0" alt="linkedin"></a>
+  <a href="@Mohamedglall" target="_blank"><img width="4%" src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/b5827079-55f5-476d-b853-bde727e05052" alt="linkedin"></a>
 </div>
  
+
  
