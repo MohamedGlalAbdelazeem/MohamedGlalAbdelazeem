@@ -14,10 +14,10 @@ Skills:
 * C [openGl]
 * SQL
  
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="10%" alt="photo" />
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/3b9a4ba7-efc5-4ba9-a101-4c5089558ec6" width="10%" alt="photo" />
+<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="8%" alt="photo" />
+<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/3b9a4ba7-efc5-4ba9-a101-4c5089558ec6" width="8%" alt="photo" />
+<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/345ea851-2492-4469-a6a9-fd5de9d6fe87"width="%8" alt="photo" />
 
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="10%" alt="photo" />
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="10%" alt="photo" />
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="10%" alt="photo" />
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="10%" alt="photo" />
