@@ -15,6 +15,6 @@ Skills:
 * SQL
  
 
-<img src="[https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn](https://icon-library.com/images/frontend-icon/frontend-icon-5.jpg)" alt="photo" />
+<img src="https://www.educative.io/v2api/editorpage/6456601994067968/image/6749570907242496"  alt="photo" />
 
 
