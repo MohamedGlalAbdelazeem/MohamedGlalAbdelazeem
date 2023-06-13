@@ -14,6 +14,7 @@ Skills:
 * Python [Numpy | pandas]
 * C [openGl]
 * SQL
+* AI & ML
 
  <hr>
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="8%" alt="photo" />
