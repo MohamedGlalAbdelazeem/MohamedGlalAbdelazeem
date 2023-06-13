@@ -14,7 +14,7 @@ Skills:
 * C [openGl]
 * SQL
  
-<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="50px" alt="photo" />
+<img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403" width="20%" alt="photo" />
 
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/a7dad6c8-22f4-4eee-a059-5454fc172403"  alt="photo" />
  
