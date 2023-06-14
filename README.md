@@ -24,7 +24,7 @@ Skills:
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/b6c75aa6-024b-48e1-930e-90acbba4ae57" width="8%" alt="photo" />
 <img src="https://github.com/MohamedGlalAbdelazeem/MohamedGlalAbdelazeem/assets/128422634/4c68f915-29d7-4cb9-a698-baa7a9bb4f91" width="8%" alt="photo" />
 <hr><hr>
-  <h1>_________________________My projects___________________________</h1> 
+  <h1>_________________My projects______________________</h1> 
   <br>
    <h2>HTML5 & CSS3 & JS Pojects</h2>
   
