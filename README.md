@@ -1,4 +1,4 @@
-<h1> Hi there 👋</h1>
+<h1 style="text-align:center"> Hi there 👋</h1>
 ##  My name is Mohamed Glal Abdelazeem
 ### I 'm a Front End Developer
 
