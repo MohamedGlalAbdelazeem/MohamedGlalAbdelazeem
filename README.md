@@ -9,7 +9,8 @@ Skills:
 * HMTL5
 * CSS3
 * JS | EC6 | DOM | BOM | JSON | AJAX
-* JQUERY 
+* JQUERY
+## I have knowledge about:
 * JAVA
 * Python [Numpy | pandas]
 * C [openGl]
