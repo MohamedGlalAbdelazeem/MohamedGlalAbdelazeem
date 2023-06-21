@@ -1,4 +1,4 @@
-
+# Hello there 🖐,
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
@@ -6,7 +6,7 @@
 </div>
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Mohamed glal abdelazeem  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h2><em>I'm a front end developer <a href="https://www.oneorigin.us/">
+<h2 ><em>I'm a front end developer <a href="https://www.oneorigin.us/">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -19,6 +19,7 @@
 * CSS3
 * JS | EC6 | DOM | BOM | JSON | AJAX
 * JQUERY
+* web fundamentals
 ## I have knowledge about:
 * JAVA
 * Python [Numpy | pandas]
