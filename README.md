@@ -42,7 +42,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
 <br/>
 <hr><hr>
-  <h1>_________________My projects______________________</h1> 
+  <h1>|My projects|</h1> 
   <br>
    <h2> HTML5 & CSS3 & JS Projects </h2>
   * <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor</a><br>
@@ -54,6 +54,5 @@
   * <a href="https://mohamedglalabdelazeem.github.io/animationNavBar/" target="_blank">Animation navbar</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/iphone-website/" target="_blank">IPhone website</a><br>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-_______________________________________________________________________________________________________________________________
-  
+<hr>
  
