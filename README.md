@@ -19,7 +19,7 @@
 * CSS3
 * JS | EC6 | DOM | BOM | JSON | AJAX
 * JQUERY
-* web fundamentals
+* Axios
 ## I have knowledge about:
 * JAVA
 * Python [Numpy | pandas]
