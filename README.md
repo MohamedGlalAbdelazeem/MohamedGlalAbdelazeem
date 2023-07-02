@@ -45,7 +45,7 @@
 <hr>
   <h1>|My projects|</h1> 
    <h2> HTML5 & CSS3 & JS Projects </h2>
-   * <a href="file:///E:/Js%20APIS/Muslim_Website/index.html" target="_blank">Muslim Website</a><br>
+  * <a href="file:///E:/Js%20APIS/Muslim_Website/index.html" target="_blank">Muslim Website</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Calculate-zakat-elmaal/" target="_blank"> Calculate-zakat-elmaal </a><br>
