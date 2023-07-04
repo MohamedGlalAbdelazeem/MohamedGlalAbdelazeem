@@ -54,6 +54,7 @@
   * <a href="https://mohamedglalabdelazeem.github.io/animation-website/" target="_blank">Animatin website</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/animationNavBar/" target="_blank">Animation navbar</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/iphone-website/" target="_blank">IPhone website</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/Prayer-Now-/" target="_blank">Prayer Now 🕌</a><br>
 <hr>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <hr>
