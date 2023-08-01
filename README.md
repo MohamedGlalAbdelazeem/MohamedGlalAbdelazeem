@@ -20,6 +20,7 @@
 * JS | EC6 | DOM | BOM | JSON | AJAX
 * JQUERY
 * Axios
+* postman
 ## I have knowledge about:
 * JAVA
 * Python [Numpy | pandas]
@@ -44,17 +45,21 @@
 <br/>
 <hr>
   <h1>|My projects|</h1> 
-   <h2> HTML5 & CSS3 & JS Projects </h2>
+   <h2> HTML5 & CSS3 Projects </h2>
+
+  * <a href="https://mohamedglalabdelazeem.github.io/DHTML-/" target="_blank">DHTML 1</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/animationNavBar/" target="_blank">Animation navbar</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/iphone-website/" target="_blank">IPhone website</a><br>
+
+<hr>
+  <h2> HTML5 & CSS3 & JS Projects </h2>
   * <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Calculate-zakat-elmaal/" target="_blank"> Calculate-zakat-elmaal </a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/DHTML-/" target="_blank">DHTML 1</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/Prayer-Now-/" target="_blank">Prayer Now 🕌</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/" target="_blank">Drag Drop app</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/animation-website/" target="_blank">Animatin website</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/animationNavBar/" target="_blank">Animation navbar</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/iphone-website/" target="_blank">IPhone website</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Prayer-Now-/" target="_blank">Prayer Now 🕌</a><br>
 <hr>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <hr>
