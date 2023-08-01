@@ -57,7 +57,6 @@
   * <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Calculate-zakat-elmaal/" target="_blank"> Calculate-zakat-elmaal </a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Prayer-Now-/" target="_blank">Prayer Now 🕌</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/" target="_blank">Drag Drop app</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/animation-website/" target="_blank">Animatin website</a><br>
 <hr>
