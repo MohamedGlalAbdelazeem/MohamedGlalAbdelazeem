@@ -15,8 +15,8 @@
 <hr>
 
 ## Skills:
-* HMTL5
-* CSS3
+* HMTL 5
+* CSS 3
 * JS | EC6 | DOM | BOM | JSON | AJAX
 * JQUERY
 * Axios
@@ -59,6 +59,6 @@
   * <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/" target="_blank">Drag Drop app</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/animation-website/" target="_blank">Animatin website</a><br>
 <hr>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <h2> React Projects </h2>
 <hr>
  
