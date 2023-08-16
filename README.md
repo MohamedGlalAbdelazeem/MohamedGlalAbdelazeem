@@ -59,7 +59,7 @@
   * <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/" target="_blank">Drag Drop app</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/animation-website/" target="_blank">Animatin website</a><br>
 <hr>
-  <h2> React Projects </h2>
-    * <a href="https://mohamedglalabdelazeem.github.io/ToDolist./" target="_blank">ToDoList App</a><br>
+ <h2> React Projects </h2>
+ * <a href="https://mohamedglalabdelazeem.github.io/ToDolist./" target="_blank">ToDoList App</a><br>
 
  
