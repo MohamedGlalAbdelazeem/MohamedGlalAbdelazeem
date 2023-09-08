@@ -21,12 +21,13 @@
 * JQUERY
 * Axios
 * postman
+* React js |Hooks 
 ## I have knowledge about:
 * JAVA
 * Python [Numpy | pandas]
 * C [openGl]
 * SQL
-* AI & ML
+* AI [DL | CV | CNN  ]
 
  <hr>
 
