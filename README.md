@@ -6,7 +6,7 @@
 </div>
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Mohamed glal abdelazeem  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<h2 ><em>I'm a front end developer & Designer<a href="https://www.oneorigin.us/">
+<h2 ><em>I'm a React Js Developer<a href="https://www.oneorigin.us/">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -17,17 +17,17 @@
 ## Skills:
 * HMTL 5
 * CSS 3
-* JS | EC6 | DOM | BOM | JSON | AJAX
+* JavaScript
 * JQUERY
 * Axios
-* postman
-* React js |Hooks 
+* postman | API's
+* React js 
 ## I have knowledge about:
 * JAVA
 * Python [Numpy | pandas]
 * C [openGl]
-* SQL
-* AI [DL | CV | CNN  ]
+* SQL Server
+* AI [Deep learning]
 
  <hr>
 
