@@ -17,10 +17,14 @@
 ## Skills:
 * HMTL 5
 * CSS 3
+* Bootstrap
 * JavaScript
 * JQUERY
 * Axios
 * postman | API's
+* SDLC
+* Git & github
+* figma
 * React js 
 ## I have knowledge about:
 * JAVA
