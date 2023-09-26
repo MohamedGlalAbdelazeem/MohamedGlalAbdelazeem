@@ -45,6 +45,8 @@
 <img align="left" alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="sql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" style="padding-right:10px;"/>
 
 
  
