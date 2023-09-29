@@ -79,7 +79,8 @@
   * <a href="https://mohamedglalabdelazeem.github.io/animation-website/" target="_blank">Animatin website</a><br>
 <hr>
 
- <h2> React Projects </h2>
+ <h2> React Projects </h2><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
 * <a href="https://mohamedglalabdelazeem.github.io/App/" target="_blank">Loan App Form</a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/ToDolist./" target="_blank">ToDoList App</a><br>
 
