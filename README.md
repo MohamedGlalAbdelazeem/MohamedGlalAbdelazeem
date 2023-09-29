@@ -35,7 +35,7 @@
 
  <hr>
 
-### Languages and Tools:
+### Languages and Tools ⚙🔧💻:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -54,9 +54,12 @@
 <br/>
 <hr>
 
-  <h1>|My projects|</h1> 
+  <h1>|My projects|🥇🎯</h1> 
   
-   <h2> HTML5 & CSS3 Projects </h2>
+   <span> HTML5 & CSS3 Projects </span><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
   * <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Mo Glal website 😎</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">owl website🦉</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Front_end_challenge-/index.html"target="_blank">Floy website</a><br>
@@ -68,7 +71,9 @@
 
  
 <hr>
-  <h2> HTML5 & CSS3 & JS Projects </h2>
+  <span> HTML5 & CSS3 & JS Projects </span>
+  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
   * <a href="https://mohamedglalabdelazeem.github.io/E-commerce/"target="_blank">E-commerce for cars</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Mohamed-Momtaz/?cf-name=&cf-email=&cf-message=&submit=#" target="_blank">Simple Profile for client</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website</a><br>
