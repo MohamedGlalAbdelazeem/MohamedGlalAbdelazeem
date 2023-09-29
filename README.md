@@ -62,9 +62,9 @@
   * <a href="https://mohamedglalabdelazeem.github.io/Front_end_challenge-/index.html"target="_blank">Floy website</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/ChatGpTwo/" target="_blank">ChatGpTwo</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Responsive-web/" target="_blank">Responsive page</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/iphone-website/" target="_blank">IPhone website</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/iphone-website/" target="_blank">IPhone page🍎</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/animationNavBar/" target="_blank">Animation navbar</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/DHTML-/" target="_blank">DHTML 1</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/DHTML-/" target="_blank">l o website👀</a><br>
 
  
 <hr>
