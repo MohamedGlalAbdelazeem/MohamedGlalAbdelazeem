@@ -70,20 +70,20 @@
 
  
 <hr>
-<span>Projects</span>
-  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-  * <a href="https://mohamedglalabdelazeem.github.io/E-commerce/"target="_blank">E-commerce for cars</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Mohamed-Momtaz/?cf-name=&cf-email=&cf-message=&submit=#" 
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<span>Projects</span>
+<br><br>  
+
+* <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">Samoula website⚙</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/Mohamed-Momtaz/?cf-name=&cf-email=&cf-message=&submit=#" 
    target="_blank">Profile for client</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Calculate-zakat-elmaal/" target="_blank"> Calculate-zakat-elmaal </a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/" target="_blank">Drag Drop app</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/animation-website/" target="_blank">Animatin website</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/Calculate-zakat-elmaal/" target="_blank"> Calculate-zakat-elmaal </a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/" target="_blank">Drag Drop app</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/animation-website/" target="_blank">Animatin website</a><br>
 <hr>
 
  <span> React Projects </span><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
