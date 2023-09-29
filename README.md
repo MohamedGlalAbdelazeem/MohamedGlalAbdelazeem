@@ -1,4 +1,4 @@
-# Hello there 🖐,
+# Hello there 👋
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
@@ -14,7 +14,7 @@
 <img   src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  width="40%" alt="photo" />
 <hr>
 
-## Skills:
+## Skills 💻:
 * HMTL 5
 * CSS 3
 * Bootstrap
@@ -58,7 +58,6 @@
   
 <span>Projects</span><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
   * <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Mo Glal website 😎</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">owl website🦉</a><br>
@@ -71,11 +70,14 @@
 
  
 <hr>
-  <span> HTML5 & CSS3 & JS Projects </span>
+<span>Projects</span>
   <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
   * <a href="https://mohamedglalabdelazeem.github.io/E-commerce/"target="_blank">E-commerce for cars</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Mohamed-Momtaz/?cf-name=&cf-email=&cf-message=&submit=#" target="_blank">Simple Profile for client</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/Mohamed-Momtaz/?cf-name=&cf-email=&cf-message=&submit=#" 
+   target="_blank">Profile for client</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
