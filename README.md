@@ -57,8 +57,8 @@
   <h1>|My projects|</h1> 
   
    <h2> HTML5 & CSS3 Projects </h2>
-  * <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Dynamic wbsite </a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">static wbsite 1</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Mo Glal website 😎</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">owl website🦉</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Front_end_challenge-/index.html"target="_blank">Floy website</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/ChatGpTwo/" target="_blank">ChatGpTwo</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Responsive-web/" target="_blank">Responsive page</a><br>
