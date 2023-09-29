@@ -35,7 +35,7 @@
 
  <hr>
 
-### Languages and Tools ⚙🔧💻:
+### Languages and Tools ⚙🔧:
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -54,15 +54,15 @@
 <br/>
 <hr>
 
-  <h1>|My projects|🥇🎯</h1> 
+  <h1>My projects 🥇🎯</h1> 
   
-   <span> HTML5 & CSS3 Projects </span><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
+<span>Projects</span><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
   * <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Mo Glal website 😎</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">owl website🦉</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Front_end_challenge-/index.html"target="_blank">Floy website</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/Front_end_challenge-/index.html" target="_blank">Floy website</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/ChatGpTwo/" target="_blank">ChatGpTwo</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Responsive-web/" target="_blank">Responsive page</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/iphone-website/" target="_blank">IPhone page🍎</a><br>
