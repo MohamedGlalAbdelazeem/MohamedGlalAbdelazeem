@@ -80,6 +80,7 @@
 <hr>
 
  <h2> React Projects </h2>
- * <a href="https://mohamedglalabdelazeem.github.io/ToDolist./" target="_blank">ToDoList App</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/App/" target="_blank">Loan App Form</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/ToDolist./" target="_blank">ToDoList App</a><br>
 
  
