@@ -78,8 +78,8 @@
 * <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">Samoula website⚙</a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/Mohamed-Momtaz/?cf-name=&cf-email=&cf-message=&submit=#" 
    target="_blank">Profile for client</a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website</a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website🛕</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor🎞</a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/Calculate-zakat-elmaal/" target="_blank"> Calculate-zakat-elmaal </a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/" target="_blank">Drag Drop app</a><br>
