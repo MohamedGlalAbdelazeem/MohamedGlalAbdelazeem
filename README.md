@@ -6,7 +6,7 @@
 </div>
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Mohamed glal abdelazeem  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
-<h2 ><em>I'm a React Js Developer<a href="https://www.oneorigin.us/">
+<h2 ><em>I'm a JavaScript Developer<a href="https://www.oneorigin.us/">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -15,23 +15,21 @@
 <hr>
 
 ## Skills 💻:
-* HMTL 5
-* CSS 3
-* Bootstrap
+* HMTL5 / CSS3
 * JavaScript
-* JQUERY
 * Axios
 * postman | API's
 * SDLC
-* Git & github
-* figma
-* React js 
 ## I have knowledge about:
-* JAVA
+* React js
+* java
+* jquery
+* Git & github
 * Python [Numpy | pandas]
 * C [openGl]
 * SQL Server
 * AI [Deep learning]
+* tensorflow | kerase
 
  <hr>
 
@@ -59,13 +57,9 @@
 <span>Projects</span><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 
+  * <a href="https://mohamedglalabdelazeem.github.io/Front_end_challenge-/index.html" target="_blank">Floy website</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Mo Glal website 😎</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">owl website🦉</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Front_end_challenge-/index.html" target="_blank">Floy website</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/ChatGpTwo/" target="_blank">ChatGpTwo</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Responsive-web/" target="_blank">Responsive page</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/iphone-website/" target="_blank">IPhone page🍎</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/animationNavBar/" target="_blank">Animation navbar</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/DHTML-/" target="_blank">l o website👀</a><br>
 
  
@@ -75,20 +69,15 @@
 <span>Projects</span>
 <br><br>  
 
-* <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">Samoula website⚙</a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/Mohamed-Momtaz/?cf-name=&cf-email=&cf-message=&submit=#" 
-   target="_blank">Profile for client</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website🛕</a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor🎞</a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/Calculate-zakat-elmaal/" target="_blank"> Calculate-zakat-elmaal </a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/DragDropWep/" target="_blank">Drag Drop app</a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/animation-website/" target="_blank">Animatin website</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">Samoula website⚙</a><br>
 <hr>
 
  <span> React Projects </span><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
-* <a href="https://mohamedglalabdelazeem.github.io/App/" target="_blank">Loan App Form</a><br>
+* <a href="https://mohamedglalabdelazeem.github.io/App/" target="_blank">LoanAppForm</a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/ToDolist./" target="_blank">ToDoList App</a><br>
 
  
