@@ -72,7 +72,6 @@
 * <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website🛕</a><br>
 * <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor🎞</a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">Samoula website⚙</a><br>
 <hr>
 
  <span> React Projects </span><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
