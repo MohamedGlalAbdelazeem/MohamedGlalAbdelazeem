@@ -17,6 +17,7 @@
 ## Skills 💻:
 * HMTL5 / CSS3
 * JavaScript
+* Responsive design
 * Axios
 * postman | API's
 * SDLC
