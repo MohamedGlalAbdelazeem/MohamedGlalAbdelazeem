@@ -6,7 +6,7 @@
 </div>
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Mohamed glal abdelazeem  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
-<h2 ><em>I'm a JavaScript Developer<a href="https://www.oneorigin.us/">
+<h2 ><em>I'm a Front-End Engineer | React Js <a href="https://www.oneorigin.us/">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -15,25 +15,23 @@
 <hr>
 
 ## Skills 💻:
-* HMTL5 / CSS3
-* JavaScript
-* Responsive design
-* Axios
+* React Js|Redux|useContext|useState....
+* MUI&ReactBootstrab
+* JavaScript|ECMA6 
+* HTML5&CSS3 |Responsive Desinge
+* Axios&Fetch 
 * postman | API's
-* SDLC
 * Java
+  
 ## I have knowledge about:
-* React js
-* jquery
-* Git & github
-* Python [Numpy | pandas]
+* Python [Numpy|pandas]&tensrflow|karse|matpotlib|seboarn
 * C [openGl]
 * SQL Server
-* AI [Deep learning] tensorflow | kerase
+* AI [ Machine learing & Deep learning]
 
  <hr>
 Languages and Tools ⚙🔧:
-<hr>
+
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 
