@@ -54,7 +54,7 @@ Languages and Tools ⚙🔧:
 <span>Projects</span><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 
-  * <a href="https://mohamedglalabdelazeem.github.io/Front_end_challenge-/index.html" target="_blank">Floy website</a><br>
+  * <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">E-commerce🛒</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Mo Glal website 😎</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">owl website🦉</a><br>
   * <a href="https://mohamedglalabdelazeem.github.io/DHTML-/" target="_blank">l o website👀</a><br>
