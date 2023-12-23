@@ -15,7 +15,7 @@
 <hr>
 
 ## Skills 💻:
-* React Js|Redux|useContext|useState|useEffet|useMemo|Router
+* React Js
 * MUI&ReactBootstrab
 * JavaScript|ECMA6 
 * HTML5&CSS3 |Responsive Desinge
