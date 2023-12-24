@@ -1,7 +1,9 @@
 <h3 align="center">
-  Welcome to My profile!
+   ➥ Welcome to My profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
@@ -16,6 +18,7 @@
 
 <img   src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  width="40%" alt="photo" />
 <hr>
+ 
 
 ## Skills 💻:
 * React Js
@@ -37,7 +40,6 @@ Languages and Tools ⚙🔧:
 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
-
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -57,10 +59,10 @@ Languages and Tools ⚙🔧:
 <span>Projects</span><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 
-  * <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">E-commerce🛒</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Mo Glal website 😎</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">owl website🦉</a><br>
-  * <a href="https://mohamedglalabdelazeem.github.io/DHTML-/" target="_blank">l o website👀</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">E-commerce🛒</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Mo Glal website 😎</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">owl website🦉</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/DHTML-/" target="_blank">l o website👀</a><br>
 
  
 <hr>
@@ -69,13 +71,13 @@ Languages and Tools ⚙🔧:
 <span>Projects</span>
 <br><br>  
 
-* <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website🛕</a><br>
-* <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor🎞</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website🛕</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor🎞</a><br>
 <hr>
 
  <span> React Projects </span><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
-* <a href="https://mohamedglalabdelazeem.github.io/ToDolist./" target="_blank">ToDoList App</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/ToDolist./" target="_blank">ToDoList App</a><br>
 
  
