@@ -22,10 +22,10 @@
 
 ## Skills 💻:
 * React Js
-* MUI&ReactBootstrab
-* JavaScript|ECMA6 
+* MUI & ReactBootstrab
+* JavaScript | ECMA6 
 * HTML5&CSS3 |Responsive Desinge
-* Axios&Fetch 
+* Axios & Fetch 
 * postman | API's
 * Java
   
