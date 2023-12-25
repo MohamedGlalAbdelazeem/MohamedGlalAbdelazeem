@@ -60,9 +60,9 @@ Languages and Tools ⚙🔧:
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 
 ➣ <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">E-commerce🛒</a><br>
-➣ <a href="https://mohamedglalabdelazeem.github.io/Dynamic_website/" target="_blank">Mo Glal website 😎</a><br>
-➣ <a href="https://mohamedglalabdelazeem.github.io/simpleWebsite/" target="_blank">owl website🦉</a><br>
-➣ <a href="https://mohamedglalabdelazeem.github.io/DHTML-/" target="_blank">l o website👀</a><br>
+➣ <a href="" target="_blank"></a><br>
+➣ <a href="" target="_blank"></a><br>
+➣ <a href="" target="_blank"></a><br>
 
  
 <hr>
@@ -71,13 +71,13 @@ Languages and Tools ⚙🔧:
 <span>Projects</span>
 <br><br>  
 
-➣ <a href="https://mohamedglalabdelazeem.github.io/CRUDS_System/" target="_blank">CRUDS_System</a><br>
-➣ <a href="https://mohamedglalabdelazeem.github.io/Muslim-/prayertime.html" target="_blank">Muslim Website🛕</a><br>
-➣ <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Images Editor🎞</a><br>
+➣ <a href="" target="_blank">CRUDS_System</a><br>
+➣ <a href="" target="_blank"></a><br>
+➣ <a href="" target="_blank"></a><br>
 <hr>
 
  <span> React Projects </span><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
-➣ <a href="https://mohamedglalabdelazeem.github.io/ToDolist./" target="_blank">ToDoList App</a><br>
+➣ <a href="" target="_blank"></a><br>
 
  
