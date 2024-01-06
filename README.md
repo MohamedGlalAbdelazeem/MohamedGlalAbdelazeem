@@ -69,7 +69,7 @@ Languages and Tools ⚙🔧:
 
 ➣ <a href="https://mohamedglalabdelazeem.github.io/CRUDS_SYSTEM/" target="_blank">CRUDS_System⚙</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Image Editor🖌</a><br>
-➣ <a href="" target="_blank"></a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/-/" target="_blank">مواقيت الصلاة 🕌</a><br>
 <hr>
 
  <span> React Projects </span><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
