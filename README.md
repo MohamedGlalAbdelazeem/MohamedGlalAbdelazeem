@@ -68,7 +68,7 @@ Languages and Tools ⚙🔧:
 ➣ <a href="https://mohamedglalabdelazeem.github.io/CRUDS_SYSTEM/" target="_blank">CRUDS_System⚙</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Muslim-website/" target="_blank">Muslim website 🕌</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Image-Editor/" target="_blank">Image Editor🖌</a><br>
-➣ <a href="https://mohamedglalabdelazeem.github.io/-/" target="_blank">   Prayer Timings 🕌</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Prayer-Timings/" target="_blank">   Prayer Timings 🕌</a><br>
 
 <hr>
 
