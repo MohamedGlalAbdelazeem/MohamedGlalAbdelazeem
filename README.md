@@ -17,10 +17,12 @@
 ## Skills 💻:
 * React Js
 * MUI & ReactBootstrab
-* JavaScript | ECMA6 
-* HTML5&CSS3 |Responsive Desinge
+* JavaScript | ECMA6 | oop
 * Axios & Fetch 
 * postman | API's
+*  HTML5&CSS3
+*  Responsive Desinge
+* Bootsrap
 * Java
   
 ## I have knowledge about:
