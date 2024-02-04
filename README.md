@@ -55,12 +55,14 @@ Languages and Tools ⚙🔧:
 <span>Projects</span><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 
-➣ <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">E-commerce🛒</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">Bootstrap_E-commerce🛒</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Dashboard/" target="_blank">Dashboard</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/landing_page1/" target="_blank">Landing Page</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Landing-page_2/" target="_blank">Landing page 2👀</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/landing_page_3/" target="_blank">Landing page 3🚀</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/landing_page_3/" target="_blank">Bootstrap project</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Bootstrap-Project/" target="_blank">Bootstrap project_2</a><br>
+
 
 
  
