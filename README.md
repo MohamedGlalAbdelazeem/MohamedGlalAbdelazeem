@@ -15,7 +15,7 @@
  
 
 ## Skills 💻:
-* React Js
+* React Js & Redux
 * MUI & ReactBootstraP & MDBootstrap
 * JavaScript
 * Java
