@@ -16,17 +16,18 @@
 
 ## Skills 💻:
 * React Js
-* MUI & ReactBootstrab
-* JavaScript | ECMA6 | oop
+* MUI & ReactBootstraP & MDBootstrap
+* JavaScript
+* Java
 * Axios & Fetch 
 * postman | API's
 *  HTML5&CSS3
 *  Responsive Desinge
 * Bootsrap
-* Java
+* TailwindElements & Tailwind
   
 ## I have knowledge about:
-* Python [Numpy|pandas]&tensrflow|karse|matpotlib|seboarn
+* Python [Numpy|pandas]
 * C [openGl]
 * SQL Server
 * AI [ Machine learing & Deep learning]
