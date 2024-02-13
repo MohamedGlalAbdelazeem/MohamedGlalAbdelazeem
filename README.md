@@ -85,6 +85,6 @@ Languages and Tools ⚙🔧:
 
  <span> React Projects </span><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
-➣ <a href="" target="_blank"></a><br>
+➣ <a href="https://x-ogame2.netlify.app/" target="_blank">X-O Game</a><br>
 
  
