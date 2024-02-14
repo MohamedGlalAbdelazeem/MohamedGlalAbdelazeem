@@ -87,5 +87,6 @@ Languages and Tools ⚙🔧:
 
 ➣ <a href="https://weatherappwithreact1.netlify.app/" target="_blank">Weather app🌨🌦</a><br>
 ➣ <a href="https://x-ogame2.netlify.app/" target="_blank">X-O Game</a><br>
+➣ <a href="https://calculatorwithredux2.netlify.app/" target="_blank">Calculator_with_Redux</a><br>
 
  
