@@ -73,7 +73,7 @@ Languages and Tools ⚙🔧:
 <span>Projects</span>
 <br><br>  
 
-➣ <a href="https://mohamedglalabdelazeem.github.io/Remoteera_website/" target="_blank">Remoteera website </a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Remoteera_website/" target="_blank">Remoteera website | Freelance Project </a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/CRUDS_SYSTEM/" target="_blank">CRUDS_System⚙</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Shoes-Store/" target="_blank">Shoes Store</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Muslim-website/" target="_blank">Muslim website 🕌</a><br>
