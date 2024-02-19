@@ -14,7 +14,7 @@
  
  
 
-## Skills 💻:
+# Skills 💻:
 * React Js & Redux
 * MUI & ReactBootstraP & MDBootstrap
 * JavaScript
@@ -26,7 +26,7 @@
 * Bootsrap
 * TailwindElements & Tailwind
   
-## I have knowledge about:
+# Other Skills 💻:
 * Python [Numpy|pandas]
 * C [openGl]
 * SQL Server
