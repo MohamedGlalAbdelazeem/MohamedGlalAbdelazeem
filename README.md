@@ -92,5 +92,7 @@ Languages and Tools ⚙🔧:
 <hr>
 <span> Wordpress Projects </span><br/>
 ➣ <a href="https://dev-egypthotels.pantheonsite.io/" target="_blank">E-Learing Platform</a><br>
+➣ <a href="https://dev-devart.pantheonsite.io/awsome-landing-page/" target="_blank">iCoin</a><br>
+
 
  
