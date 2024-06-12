@@ -57,6 +57,7 @@ Languages and Tools ⚙🔧:
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Freelance-landing-page_1/" target="_blank">Freelance Landinpage_1</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Freelance-landingpage_2/" target="_blank">Freelance Landinpage_2</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">Bootstrap_E-commerce🛒</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Dashboard/" target="_blank">Dashboard</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/landing_page1/" target="_blank">Landing Page</a><br>
