@@ -2,7 +2,16 @@
    ➥ Welcome to My profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<h1 align="center">🏆 GITHUB ACHIEVEMENTS 🏆</h1>
 
+<div align="center">
+  <img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" />
+  <img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" />
+  <img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" />
+  <img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" alt="Galaxy Brain" />
+  <img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" />
+  <img  width="80" src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" />
+</div>
 <img width="220" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My name is Mohamed glal abdelazeem  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350"><br/> <hr/>
