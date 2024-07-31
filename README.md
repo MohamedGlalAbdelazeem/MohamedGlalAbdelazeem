@@ -14,21 +14,21 @@
  
  
 
-# Skills 💻:
-* React Js & Redux
-* MUI & ReactBootstraP & MDBootstrap
+# Front-end Skills 💻:
+* React Js & NextJs & Redux
 * JavaScript
-* Java
 * Axios & Fetch 
 * postman | API's
-*  HTML5&CSS3
-*  Responsive Desinge
+* HTML5&CSS3
+* MUI
+* Responsive Desinge
 * Bootsrap
-* TailwindElements & Tailwind
-  
-# Other Skills 💻:
-* Python [Numpy|pandas]
+* TailwindCss
+# Other skills:
+* python
+* Java
 * C [openGl]
+* Databases
 * SQL Server
 * AI [ Machine learing & Deep learning]
 
