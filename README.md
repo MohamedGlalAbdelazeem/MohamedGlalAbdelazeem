@@ -33,7 +33,7 @@
 * Responsive Desinge
 * Bootsrap
 * TailwindCss
-# Other skills:
+# Software engineering skills:
 * python
 * Java
 * C [openGl]
