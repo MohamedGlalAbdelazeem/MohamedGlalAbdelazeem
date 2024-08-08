@@ -65,9 +65,9 @@ Languages and Tools ⚙🔧:
 <span>Projects</span><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 
-➣ <a href="https://mohamedglalabdelazeem.github.io/Freelance-landing-page_1/" target="_blank">Freelance Landinpage_1</a><br>
-➣ <a href="https://mohamedglalabdelazeem.github.io/Freelance-landingpage_2/" target="_blank">Freelance Landinpage_2</a><br>
-➣ <a href="https://mohamedglalabdelazeem.github.io/Freelance-Landinpage_3/" target="_blank">Freelance Landinpage_3</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Freelance-landing-page_1/" target="_blank">Freelance Landinpage_1⭐⭐⭐⭐⭐</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Freelance-landingpage_2/" target="_blank">Freelance Landinpage_2⭐⭐⭐⭐⭐</a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Freelance-Landinpage_3/" target="_blank">Freelance Landinpage_3⭐⭐⭐⭐⭐</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/E-commerce/" target="_blank">Bootstrap_E-commerce🛒</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Dashboard/" target="_blank">Dashboard</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/landing_page1/" target="_blank">Landing Page</a><br>
@@ -85,7 +85,7 @@ Languages and Tools ⚙🔧:
 <span>Projects</span>
 <br><br>  
 
-➣ <a href="https://mohamedglalabdelazeem.github.io/Remoteera_website/" target="_blank">Remoteera website | Freelance Project </a><br>
+➣ <a href="https://mohamedglalabdelazeem.github.io/Remoteera_website/" target="_blank">Remoteera website | Freelance Project⭐⭐⭐⭐⭐ </a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/CRUDS_SYSTEM/" target="_blank">CRUDS_System⚙</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Shoes-Store/" target="_blank">Shoes Store</a><br>
 ➣ <a href="https://mohamedglalabdelazeem.github.io/Muslim-website/" target="_blank">Muslim website 🕌</a><br>
@@ -97,7 +97,8 @@ Languages and Tools ⚙🔧:
 
  <span> React Projects </span><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
-➣ <a href="https://www.behance.net/gallery/198636345/Tourism_managment_System-Freelance-project" target="_blank"> Falcon Tour System || Freelance Project </a><br>
+➣ <a href="https://www.behance.net/gallery/198636345/Tourism_managment_System-Freelance-project" target="_blank"> Falcon Tour System || Freelance Project ⭐⭐⭐⭐⭐</a><br>
+➣ <a href="https://www.behance.net/gallery/203648007/qaliobia-Platform" target="_blank">Qaliobia-Platform || Freelance Project ⭐⭐⭐⭐⭐ </a><br>
 ➣ <a href="https://668ab8a2abe78ab8eeb44cfc--todoappffasdfas.netlify.app/" target="_blank">Todo App📑</a><br>
 ➣ <a href="https://mohamedgalal2.netlify.app/" target="_blank">My Portofolio🚀</a><br>
 ➣ <a href="https://weatherappwithreact1.netlify.app/" target="_blank">Weather app🌨🌦</a><br>
