@@ -111,11 +111,14 @@ Languages and Tools ⚙🔧:
 ➣ <a href="https://x-ogame2.netlify.app/" target="_blank">X-O Game</a><br>
 ➣ <a href="https://calculatorwithredux2.netlify.app/" target="_blank">Calculator_with_Redux</a><br>
 <hr>
+ <div> 
+  <h2> Next Js Projects  </h2> 
+ </div> 
+➣ <a href="https://next-project-one-beige.vercel.app/" target="_blank">Fetch Date </a><br>
+ <hr>
 <span> Wordpress Projects </span><br/>
 ➣ <a href="https://dev-egypthotels.pantheonsite.io/" target="_blank">E-Learing Platform</a><br>
 ➣ <a href="https://dev-devart.pantheonsite.io/awsome-landing-page/" target="_blank">iCoin</a><br>
 
 
- <span> Next Js Projects </span> 
-➣ <a href="https://next-project-one-beige.vercel.app/" target="_blank">Fetch Date </a><br>
- 
+
