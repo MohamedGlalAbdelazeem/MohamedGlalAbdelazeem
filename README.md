@@ -116,4 +116,6 @@ Languages and Tools ⚙🔧:
 ➣ <a href="https://dev-devart.pantheonsite.io/awsome-landing-page/" target="_blank">iCoin</a><br>
 
 
+ <span> Next Js Projects </span> 
+➣ <a href="https://next-project-one-beige.vercel.app/" target="_blank">Fetch Date </a><br>
  
