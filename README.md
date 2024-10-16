@@ -25,21 +25,31 @@
  
 
 # Front-end Skills 💻:
-* React Js & NextJs & Redux
-* JavaScript
-* Axios & Fetch 
+* Next Js 
+* React Js & Redux & React Router 
+* JavaScript 
 * postman | API's
-* HTML5&CSS3
+* HTML5
+* CSS3
 * MUI
 * Responsive Desinge
 * Bootsrap
 * TailwindCss
+*  Wrodpress
+*  Strapi/Stripe
+*  Firebase
+*  user experience
+
 # Software engineering skills:
 * python
+* SEO Basics
+* Git/Github
 * Java
 * C [openGl]
 * Databases
 * SQL Server
+* oop
+* Algorthims and DS
 * AI [ Machine learing & Deep learning]
 
  <hr>
